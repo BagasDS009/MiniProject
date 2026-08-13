@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Build output
+target/
+
+# Logs
+*.log
+
+# Serenity reports
+**/site/
+
+# JMeter results
+*.jtl
+*.csv
